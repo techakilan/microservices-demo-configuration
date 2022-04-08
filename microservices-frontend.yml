@@ -1,2 +1,2 @@
 endpoints:
-  microservices-api-gateway-url: http://54.148.10.156:9095
+  microservices-api-gateway-url: http://localhost:9095
