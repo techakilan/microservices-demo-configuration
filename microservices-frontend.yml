@@ -1,3 +1,5 @@
 endpoints:
   microservices-api-gateway-url: http://localhost:9095
-movie-info-page-title: 'Movie Info Page Title from config v1'
+movie-info-page-title: 'Movie Info Page Title from config v3' 
+
+
